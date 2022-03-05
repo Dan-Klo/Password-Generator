@@ -12,3 +12,4 @@ https://github.com/Dan-Klo/Password-Generator.git
 
 
 Try the deployed application for yourself at:
+https://dan-klo.github.io/Password-Generator
