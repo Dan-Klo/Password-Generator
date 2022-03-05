@@ -8,7 +8,7 @@ The password generator uses dynamically generated HTML via JavaScript.
 This application allows users to easily generate secure passwords.
 
 The Github repository can be found at:
-
+https://github.com/Dan-Klo/Password-Generator.git
 
 
 Try the deployed application for yourself at:
